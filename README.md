@@ -1,15 +1,17 @@
-<h1 align="center">Hi 👋, I'm I Love you</h1>
-<h3 align="center">💻 Python & Machine Learning Enthusiast | Exploring AI, IoT & IT Automation | Open Source Learner 🚀</h3>
+<h1 align="center">Hi 👋, I'm PriyankaTripathy</h1>
+<h3 align="center">💻 Python & Machine Learning Enthusiast | Exploring AI, Frontend & IT Automation | Open Source Learner 🚀</h3>
 ---
 
 ## 🚀 About Me
-- 🔭 Currently working on **AI & Machine Learning Projects**  
-- 🌱 Learning **Django, IoT, and IT Automation**  
-- 🐧 Passionate about **Linux & Open Source**  
-- 👯 Looking to collaborate on **AI + IoT & Automation projects**  
-- 📫 Reach me at: [Email](mailto:as401015@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ayush-sonar-800a4224b)  
+🔭 Currently working on AI, ML, and Frontend projects
+🌱 Exploring and learning AI, ML, and IT Automation
+🐧 Passionate about AI innovations & Open Source contributions
+👯 Open to collaborating on AI + Frontend projects
+📫 Reach me at [Mail - priyankatripathy1128@gmail.com]
+
 
 ---
+
 ## 🛠️ Skills & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -26,7 +28,7 @@
 ---
 
 ## 🌟 Fun Fact
-⚡ I enjoy combining **AI, ML, and Linux automation** to create real-world solutions!  
+✨ **I enjoy combining AI, ML, and Frontend development to create impactful real-world solutions**!
 
 ---
 
