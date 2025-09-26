@@ -32,4 +32,4 @@
 
 ---
 
-<h3 align="center">⭐️ From <a href="https://github.com/Ayush-kumar4">Priyanka Tripathy</a></h3>
+<h3 align="center">⭐️ From <a href="https://github.com/priyanka291131">Priyanka Tripathy</a></h3>
