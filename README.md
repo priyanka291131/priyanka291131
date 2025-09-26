@@ -18,7 +18,8 @@
   <img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange"/>
   <img src="https://img.shields.io/badge/Automation-4CAF50?style=for-the-badge&logo=ansible&logoColor=white"/>
-  <img src="https://img.shields.io/badge/frontend">
+  <img src=
+    <img alt="Static Badge" src="https://img.shields.io/badge/%3Cimg%20src%3D%22https%3A%2F%2Fimg.shields.io%2Fbadge%2FFrontend%3Fstyle%3Dfor-the-badge%26logo%3Dfrontend%26logoColor%3Dred%22%2F%3E">
 
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
